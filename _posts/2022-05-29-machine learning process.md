@@ -4,7 +4,7 @@ title:  "machine learning process"
 ---
 
 
-1. 문제파악(Problem)
+1.문제파악(Problem)
 
 * 배경 이해
 * 분석 목표 확인
@@ -12,7 +12,7 @@ title:  "machine learning process"
 * 데이터 다운로드
 
 ------
-2. 데이터 탑색(EDA)
+2.데이터 탑색(EDA)
 
 * 데이터 탐색(외부 데이터도 탐색 필요)
 * 데이터 이상 유무 확인
@@ -21,13 +21,13 @@ title:  "machine learning process"
   - 데이터 분포, 상관관계 등
 
 ------
-3. 데이터 전처리(Preprocessing)
+3.데이터 전처리(Preprocessing)
 
 * 모델 학습이 가능한 형태로 데이터를 정리
   - 데이터 결합, 결측값 처리, 이상치 처리, 데이터 변환, 범주형 변수 인코딩, 속성 추가 제거 등
 
 ------
-4. 모델 학습(Modeling)
+4.모델 학습(Modeling)
 
 * 모델 학습을 위한 훈련 데이터/모델 성능평가를 위한 검증 데이터 분할
 * 알고리즘 선택
@@ -36,7 +36,7 @@ title:  "machine learning process"
 * 성능평가
 
 ------
-5. 예측(Solution)
+5.예측(Solution)
 
 * 테스트
 * 예측 모델
