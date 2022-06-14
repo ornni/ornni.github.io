@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "SVM multiclass OvR, OvO code"
+title:  "SVM multiclass OvR, OvO code-MNIST dataset"
 ---
 
 ```python
